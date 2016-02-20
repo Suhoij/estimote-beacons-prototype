@@ -1,0 +1,28 @@
+{
+  "name": "estimote-beacons-prototype",
+  "version": "1.0.0",
+  "description": "Estimote Beacons Prototype based on NodeJs",
+  "main": "app.js",
+  "dependencies": {
+    "noble": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suhoij/estimote-beacons-prototype.git"
+  },
+  "keywords": [
+    "estimote",
+    "beacon",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suhoij/estimote-beacons-prototype/issues"
+  },
+  "homepage": "https://github.com/Suhoij/estimote-beacons-prototype#readme"
+}
